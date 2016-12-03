@@ -1,6 +1,6 @@
-# wg-collections - JavaScript collections and collection utilities
+# JavaScript collections and collection utilities
 
-# LinkedHashMap
+## LinkedHashMap
 This structrue provides semantics similar to the Java LinkedHashMap and maintains a HashMap with insertion iteration order
 
 Creating the map
