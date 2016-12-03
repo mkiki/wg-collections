@@ -6,7 +6,7 @@
 const assert = require('assert');
 const LinkedHashMap = require('../lib/LinkedHashMap.js');
 
-describe('LinkedHashMap', function() {
+describe('Testing LinkedHashMap', function() {
 
   function checkOrder(map, expected) {
     found = "";
