@@ -1,13 +1,11 @@
 {
-  "name": "wilgeforte",
+  "name": "wg-collections",
   "version": "2.0.0",
   "description": "JavaScript collections utilities",
   "author": "Alexandre Morin <aggmorin@gmail.com>",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "start": "node index.js",
-    "debug": "iron-node index.js",
     "debug-mocha": "iron-node node_modules/mocha/bin/_mocha"
   },
   "main": "index.js",

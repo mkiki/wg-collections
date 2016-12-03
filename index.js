@@ -3,7 +3,7 @@
  */
 // (C) Alexandre Morin 2015 - 2016
 
-const LinkedHashMap = require('./src/linkedHashMap.js');
+const LinkedHashMap = require('./lib/linkedHashMap.js');
 
 /**
  * Public interface
